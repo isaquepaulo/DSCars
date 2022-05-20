@@ -1,0 +1,14 @@
+.card-base{
+    background:#EDEDED ;
+}
+
+.text-center p{
+    font-size: 12px;
+    color: #585858;
+}
+
+
+.text-center h1{
+    font-size: 18px;
+    font-weight: bold;
+}
